@@ -62,17 +62,4 @@ Sample customization to make a Perplexity lookalike:
 
 ![Perplexity clone created with assistant-ui](https://raw.githubusercontent.com/assistant-ui/assistant-ui/main/.github/assets/perplexity.gif)
 
-## Demos
-
-[![Short Demo](https://img.youtube.com/vi/ZW56UHlqTCQ/hqdefault.jpg)](https://youtu.be/ZW56UHlqTCQ)
-
-[![Long Demo](https://img.youtube.com/vi/9eLKs9AM4tU/hqdefault.jpg)](https://youtu.be/9eLKs9AM4tU)
-
-## Traction
-
-Hundreds of projects use assistant-ui to build in-app AI assistants, including companies like LangChain, AthenaIntelligence, Browser Use, and more.
-
-With >400k monthly downloads, assistant-ui is one of the most popular UI libraries for building AI chat.
-
-<img src="https://github.com/user-attachments/assets/b2d7854a-8ce6-4862-bafc-875a85418df2" alt="Growth" width="400" />
 
